@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<transactions>
+    <transaction id="0">
+        <name>Eat</name>
+        <descriprtion>Eat some spicy chicken</descriprtion>
+        <currency>BYN</currency>
+        <amount>-199.0</amount>
+        <date>20-01-1996-01-01-01</date>
+    </transaction>
+    <transaction id="1">
+        <name>2222</name>
+        <descriprtion>22222</descriprtion>
+        <currency>USD</currency>
+        <amount>156.0</amount>
+        <date>25-01-1996-01-01-01</date>
+    </transaction>
+    <transaction id="2">
+        <name>Достижение цели Third</name>
+        <descriprtion>Цель номер 2 достигнута</descriprtion>
+        <currency>RUR</currency>
+        <amount>-1000.0</amount>
+        <date>20-12-2017-05-34-45</date>
+    </transaction>
+    <transaction id="3">
+        <name>Достижение цели Fifth</name>
+        <descriprtion>Цель номер 4 достигнута</descriprtion>
+        <currency>RUR</currency>
+        <amount>-1000.0</amount>
+        <date>20-12-2017-05-38-02</date>
+    </transaction>
+    <transaction id="4">
+        <name>TEST</name>
+        <descriprtion>RETE</descriprtion>
+        <currency>EUR</currency>
+        <amount>10.0</amount>
+        <date>20-12-2017-05-38-32</date>
+    </transaction>
+    <transaction id="5">
+        <name>Достижение цели Seventh</name>
+        <descriprtion>Цель номер 6 достигнута</descriprtion>
+        <currency>RUR</currency>
+        <amount>-9000.0</amount>
+        <date>20-12-2017-11-24-17</date>
+    </transaction>
+    <transaction id="6">
+        <name>Достижение цели Second</name>
+        <descriprtion>Цель номер 1 достигнута</descriprtion>
+        <currency>RUR</currency>
+        <amount>-1000.0</amount>
+        <date>20-12-2017-11-35-07</date>
+    </transaction>
+</transactions>

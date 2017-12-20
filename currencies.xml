@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<currencies>
+    <currency id="0">
+        <name>RUR</name>
+        <rate>1</rate>
+    </currency>
+    <currency id="1">
+        <name>USD</name>
+        <rate>59.6</rate>
+    </currency>
+    <currency id="2">
+        <name>EUR</name>
+        <rate>69.7</rate>
+    </currency>
+    <currency id="3">
+        <name>BYN</name>
+        <rate>29.9</rate>
+    </currency>
+</currencies>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<goals>
+    <goal id="0">
+        <name>First</name>
+        <goalSum>1000.0</goalSum>
+        <actualDate>31-08-1982</actualDate>
+        <complete>true</complete>
+    </goal>
+    <goal id="1">
+        <name>Second</name>
+        <goalSum>1000.0</goalSum>
+        <actualDate>20-12-2017-11-35-07</actualDate>
+        <complete>true</complete>
+    </goal>
+    <goal id="2">
+        <name>Third</name>
+        <goalSum>1000.0</goalSum>
+        <actualDate>20-12-2017-05-34-45</actualDate>
+        <complete>true</complete>
+    </goal>
+    <goal id="3">
+        <name>Fourth</name>
+        <goalSum>1000.0</goalSum>
+        <actualDate>20-12-2017-05-20-51</actualDate>
+        <complete>true</complete>
+    </goal>
+    <goal id="4">
+        <name>Fifth</name>
+        <goalSum>1000.0</goalSum>
+        <actualDate>20-12-2017-05-38-02</actualDate>
+        <complete>true</complete>
+    </goal>
+    <goal id="5">
+        <name>Sixth</name>
+        <goalSum>1000.0</goalSum>
+        <actualDate>null</actualDate>
+        <complete>false</complete>
+    </goal>
+    <goal id="6">
+        <name>Seventh</name>
+        <goalSum>9000.0</goalSum>
+        <actualDate>20-12-2017-11-24-17</actualDate>
+        <complete>true</complete>
+    </goal>
+    <goal id="7">
+        <name>Eighth</name>
+        <goalSum>10000.0</goalSum>
+        <complete>false</complete>
+    </goal>
+    <goal id="8">
+        <name>Nineth</name>
+        <goalSum>2200.0</goalSum>
+        <complete>false</complete>
+    </goal>
+</goals>
